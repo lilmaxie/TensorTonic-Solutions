@@ -144,6 +144,7 @@ Verified machine learning implementations completed on [TensorTonic](https://www
 | Multi-Head Attention | Build NumPy multi-head attention with learned projections, per-head scaled attention, concatenation, and output projection. | https://www.tensortonic.com/research/transformer/transformers-multi-head-attention |
 | Positional Encoding | Implement sinusoidal Transformer positional encodings in NumPy with alternating sine and cosine dimensions. | https://www.tensortonic.com/research/transformer/transformers-positional-encoding |
 | Tokenization | Build a word-level Transformer tokenizer with fixed special-token IDs, sorted vocabulary entries, encoding, and decoding. | https://www.tensortonic.com/research/transformer/transformers-tokenization |
+| VGG Classifier Head | Build the VGG classifier by flattening spatial features and applying two ReLU hidden layers plus a logits projection. | https://www.tensortonic.com/research/vgg/vgg-classifier |
 | VGG Conv Block | Implement a VGG convolutional block as sequential channel projections with ReLU activation at every spatial position. | https://www.tensortonic.com/research/vgg/vgg-conv-block |
 | VGG Max Pooling | Implement VGG 2x2 max pooling with stride two while preserving the input batch and channel dimensions. | https://www.tensortonic.com/research/vgg/vgg-maxpool |
 | CBOW Forward Pass | Implement the Word2Vec CBOW forward pass by averaging context embeddings and producing vocabulary logits. | https://www.tensortonic.com/research/word2vec/word2vec-cbow-forward |
